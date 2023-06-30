@@ -28,12 +28,7 @@
 
  <img src="https://i.imgur.com/k348wLY.png" alt="Logo" width="900" height="500">
  <br/>
-<p >
- <img src="https://i.imgur.com/z96h1vb.png" alt="project(Coise-User)" width="200" height="150">
- <img src="https://i.imgur.com/6Xxnqhv.png" alt="project(Admin)" width="200" height="150">
- <img src="https://i.imgur.com/JE3vHEI.png" alt="project(User)" width="200" height="150">
- <img src="https://i.imgur.com/UKpjKbc.png" alt="project(Login-User)" width="200" height="150">
-</p>
+
 
 ## Library-System
 * A library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates. This system completely automates all your library's activities.
