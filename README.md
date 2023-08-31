@@ -1,5 +1,3 @@
-
-
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Librarys-Management-System">
